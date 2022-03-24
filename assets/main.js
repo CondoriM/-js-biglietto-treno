@@ -6,12 +6,12 @@ console.log(km_user);
 
 //sconto del 40%
 function calcPerc(num) {
-    return ((num/100) * 40).toFixed(2)
+    return ((num/100) * 60).toFixed(2)
 }
 
 //sconto del 20%
 function calcPerc_20(num) {
-    return ((num/100) * 20).toFixed(2)
+    return ((num/100) * 80).toFixed(2)
 }
 
 //eta persona
